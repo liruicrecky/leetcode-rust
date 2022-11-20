@@ -1,2 +1,13 @@
 #![allow(warnings)]
 mod s0001_two_sum;
+mod s0003_longest_substring_without_repeating_characters;
+mod s0824_goat_latin;
+mod s0396_rotate_function;
+mod s0868_binary_gap;
+mod s2250_count_number_of_rectangles_containing_each_point;
+mod s0417_pacific_atlantic_water_flow;
+mod s1305_all_elements_in_two_binary_search_trees;
+mod s0913_cat_and_mouse;
+mod s0449_serialize_and_deserialize_bst;
+mod s0812_largest_triangle_area;
+mod s0436_find_right_interval;
